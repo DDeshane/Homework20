@@ -30,3 +30,9 @@
       transform: rotate(360deg);
     }
   }
+
+  .nyt-logo{
+    float: center;
+    text-align: center;
+    max-width:600px;
+  }

@@ -14,7 +14,7 @@ class App extends Component {
   
   getBooks = async e => {
     
-    let formSearch = e.target.elements.formSearch.value;
+    let formSearch = e.target.elements.formSelect.value;
     e.preventDefault();
     e.target.reset();
 
